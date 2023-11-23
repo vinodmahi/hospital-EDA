@@ -1,0 +1,125 @@
+treatment_id,dep_no,treatment_name,fees
+24x7M,4,24x7 monitoring of vitals,500
+ABL,3,Ablation,60000
+ANAES,4,Administering anaesthesia,5000
+ANGIO,3,Angioplasty,2000000
+APTOMY,6,Appendicectomy,100000
+ARTHSCP,12,Arthroscopy,800000
+BLTR,1,Blood transfusion,20000
+BNFRACREP,12,Bone fracture repair,400000
+BNFUSREP,12,Bone Fusion repair,100000
+BRAUD,5,Behaviour Response Audiometry,95000
+BRSCPY,5,Bronchoscopy,450000
+CANPLSTY,13,Canaloplasty,60000
+CAPD,9,continuous ambulatory peritoneal dialysis,60000
+CATASURG,13,Cataract surgery,60000
+CBDSURG,6,Common bile duct (CBD) surgery,100000
+CBS,10,Cerebrovascular surgery,2500000
+CCPD,9,continuous cycling peritoneal dialysis,60000
+CERVBIOP,7,Cervical Biopsy,40000
+CHCYTMY,6,Cholecyctectomy,100000
+CHMTHRP,11,Chemotherapy,1000000
+CHNDRPLST,12,Chondroplasty,700000
+CHO,4,Cholera,1500
+CLSCP,6,colonoscopy,100000
+COLPHY,7,Colporrhaphy,40000
+COMA,4,Medically induced coma,500000
+CORSURG,13,Corneal surgery,70000
+COU,15,Cough/Sore throat,300
+CRAUD,5,Conditioned Response Audiometry,85000
+CRPLTY,10,cranioplasty,500000
+CSDEL,7,Cesarean delivery,80000
+CURSURG,11,Curative Surgery,1000000
+CYSTOMY,6,Cystogastrostomy,100000
+DACRYTMY,13,Dacryocystorhinostomy,200000
+DEBR,12,Debridement,100000
+DENG,4,Dengue,1500
+DIAGSURG,11,Diagnostic Surgery,1000000
+DLY,9,Dialysis,60000
+DRH,15,Diarrhea,300
+ECMO,8,Extracorporeal membrane oxygenation,60000
+ELMYGRPH,10,Electromyography,10000
+ENDABL,7,Endometrial ablation,40000
+ENDO,6,Endoscopy,100000
+EYELIDSURG,13,Eyelid surgery,50000
+FA,1,First aid,200
+FEV,15,Fever,300
+FFAUD,5,Free field Audiometry,80000
+FNS,10,Functional neurosurgery,2000000
+FORMTMY,10,foraminotomy,500000
+GLAUSURG,13,Glaucoma surgery,60000
+GSTSURG,6,Gastrointestinal Surgery,80000
+HEMDLY,9,Hemodialysis,60000
+HIPREPL,12,Hip replacement,5000000
+HPTS,6,Chronic Hepatitis,100000
+HRMNTHRP,11,Hormone therapy,1000000
+HRTPLNT,3,Heart Transplant,3500000
+HYSTMY,7,Hysterectomy,60000
+HYT,2,Hydrotherapy,2000
+IMMTHRP,11,Immunotherapy,1000000
+INF,15,Influenza,300
+IVTHRP,8,intravenous therapy,50000
+JAUN,4,Jaundice,1000
+JNTREP,12,Joint replacement,400000
+KDBIOP,9,Percutaneous kidney biopsies,60000
+KDTRSPL,9,kidney transplantation,800000
+KNREPL,12,Knee replacement,500000
+LACCNSUL,8,Lactation consultancy,40000
+LASEYESURG,13,Laser eye surgery,30000
+LPSCP,6,Laparoscopy,100000
+LTHTRPSY,9,Lithotripsy,60000
+LVBPSY,6,Liver Biopsy,100000
+MESURG,5,Micro-ear reconstructive surgery,500000
+MIG,15,Migraines,300
+MSTDEC,5,Mastoidectomy,200000
+MYMCTMY,7,Myomectomy,60000
+OCLPLSURG,13,Oculoplastic surgery,60000
+OESENDO,5,Flexible Oesophageal Endoscopy,100000
+OOPHTMY,7,Oophorectomy,70000
+OSTTMY,12,Osteotomy,100000
+PALLSURG,11,Palliative Surgery ,1000000
+PCMKR,3,Pacemakers,300000
+PEDGS,14,Pediatric Genetics services,5000
+PEDPC,14,Pediatric primary care ,400
+PEDPSY,14,Pediatric psychiatry,5000
+PEDR,14,Pediatric rheumatology,10000
+PHYTHRP,12,Physical therapy,50000
+PNJSTMY,6,pancreaticojejunostomy,100000
+PNS,10,Peripheral nerve surgery,1600000
+PREVSURG,11,Preventive Surgery,1000000
+PTAUD,5,Pure Tone Audiometry,80000
+RADTHRP,11,Radiation Therapy,1000000
+REFRCSURG,13,Refractive surgery,40000
+REHAB,4,Rehabilitation,1000
+RESTHRP,8,Respiratory therapy,50000
+RESTSURG,11,Restorative Surgery,1000000
+RETSURG,13,Retinal surgery,50000
+REVJNTSURG,12,Revision joint surgery,300000
+RHPLY,5,rhinoplasty,950000
+RRTHRP,9,renal replacement therapy,40000
+RS,10,Radiosurgery,1000000
+SBS,10,Skull base surgery,1000000
+SFTISREP,12,Soft tissue repair,200000
+SISURG,5,Sinus Surgery,500000
+SKG,2,Skin graft,20000
+SPLTOMY,6,splenectomy,100000
+SPNS,10,Spine Surgery,1500000
+SPT,5,Speech therapy,50000
+SS,10,Sleep Study,200000
+SSAUD,5,Speech Audiometry,85000
+STAGSURG,11,Staging Surgery,1000000
+STCLTRPL,11,Stem cell transplant,1000000
+STENT,3,Stenting,300000
+STN,10,Stereotactic neurosurgery,15000000
+STRBSURG,13,Strabismus surgery,50000
+TBSURG,7,Tubal Surgery,50000
+TET,2,Tetanus shot,5000
+TRLECTMY,7,Trachelectomy,30000
+TYM,5,Tympanometry,100000
+TYP,4,Typhoid,15000
+TYPLY,5,Tympanoplasty,550000
+VAGBIOP,7,Vaginal biopsy,70000
+VERDSCSURG,12,Intervertebral disc surgery,1000000
+VITRECTMY,13,vitrectomy,70000
+VLVREP,3,Heart Valve Repair,2500000
+VOM,15,Vomiting,300

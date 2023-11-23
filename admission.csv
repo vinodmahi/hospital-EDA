@@ -1,0 +1,150 @@
+patient_id,medical_history
+2,diabetes
+2,high blood pressure
+3,high cholesterol
+5,diabetes
+5,low blood pressure
+6,diabetes
+8,diabetes
+9,low blood pressure
+10,high cholesterol
+11,low blood pressure
+13,diabetes
+13,high cholesterol
+14,diabetes
+15,high cholesterol
+17,diabetes
+17,low blood pressure
+18,high blood pressure
+19,diabetes
+19,low blood pressure
+21,diabetes
+21,Hypothyroidism
+22,diabetes
+22,low blood pressure
+24,high blood pressure
+24,Hypothyroidism
+25,diabetes
+26,Hypothyroidism
+26,low blood pressure
+27,low blood pressure
+28,high blood pressure
+29,diabetes
+30,low blood pressure
+31,Hypothyroidism
+31,low blood pressure
+33,diabetes
+33,Hypothyroidism
+34,low blood pressure
+35,high cholesterol
+35,Hypothyroidism
+37,Cardiac failure
+37,diabetes
+37,Rheumatoid arthritis
+38,diabetes
+38,Hypothyroidism
+38,low blood pressure
+39,asthma
+39,Cardiac failure
+39,diabetes
+40,diabetes
+40,Hypothyroidism
+40,low blood pressure
+42,Cardiac failure
+42,high cholesterol
+42,Schizophrenia
+43,Cardiac failure
+43,low blood pressure
+45,Cardiac failure
+45,low blood pressure
+45,Rheumatoid arthritis
+46,high cholesterol
+46,Hypothyroidism
+46,Rheumatoid arthritis
+47,diabetes
+48,Cardiac failure
+48,low blood pressure
+50,diabetes
+50,Rheumatoid arthritis
+50,Schizophrenia
+51,Cardiac failure
+51,low blood pressure
+51,Schizophrenia
+53,high blood pressure
+53,Schizophrenia
+54,diabetes
+54,Rheumatoid arthritis
+55,high cholesterol
+55,Rheumatoid arthritis
+57,diabetes
+57,high blood pressure
+58,high blood pressure
+58,Schizophrenia
+59,diabetes
+59,Schizophrenia
+60,high cholesterol
+61,diabetes
+62,high blood pressure 
+62,Schizophrenia
+63,diabetes
+64,diabetes
+65,high cholesterol
+65,Schizophrenia
+66,diabetes
+67,high blood pressure
+67,Schizophrenia
+68,diabetes
+69,high cholesterol
+69,Schizophrenia
+70,diabetes
+71,high blood pressure
+71,Schizophrenia
+72,diabetes
+73,high cholesterol 
+73,Schizophrenia
+74,diabetes
+75,diabetes
+76,high cholesterol
+76,Schizophrenia
+77,high cholesterol
+78,diabetesasthma
+78,Schizophrenia
+79,diabetes
+80,diabetes
+80,high blood pressure
+80,Schizophrenia
+81,asthma
+81,high cholesterol
+82,diabetes
+83,asthma
+83,diabetes
+84,diabetes
+84,high blood pressure
+85,asthma
+85,diabetes
+86,asthma
+86,high cholesterol
+87,asthma
+87,diabetes
+89,diabetes
+89,high blood pressure
+90,asthma
+90,high cholesterol
+91,asthma
+91,diabetes
+92,diabetes
+92,high cholesterol
+92,Ulcerative colitis
+94,diabetes
+94,high blood pressure 
+95,asthma
+95,diabetes
+95,Ulcerative colitis
+96,diabetes
+96,high cholesterol
+96,Ulcerative colitis
+98,asthma
+98,diabetes
+99,high cholesterol
+100,diabetes
+100,high blood pressure
